@@ -5,18 +5,13 @@
   "id": 0
  },
  {
-  "title": "note",
-  "text": "here",
+  "title": "Newer Note",
+  "text": "Newer note goes here",
   "id": 1
  },
  {
-  "title": "please work",
-  "text": "nOW",
+  "title": "Newest Note",
+  "text": "Newest Note Goes Here",
   "id": 2
- },
- {
-  "title": "okay?",
-  "text": "reall",
-  "id": 3
  }
 ]
